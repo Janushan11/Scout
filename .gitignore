@@ -33,3 +33,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# backend dependencies
+backend/node_modules/
+backend/package-lock.json
